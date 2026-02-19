@@ -4,7 +4,7 @@
 理論と実践の両面から、スケーラブルでセキュアなシステムを構築することに情熱を注いでいます。
 
 ## 🧪 Focus & Research (自然言語処理 / AI)
-大学1年次より、BERTやSimCSEを用いたテキスト解析に取り組んでいます。
+修士1年次より、BERTやSimCSEを用いたテキスト解析に取り組んでいます。
 
 - **[year1-research](https://github.com/ShotaMiwa/year1-research)**:
   - **テーマ**: 視聴者コメントを統合したマルチモーダルな話題境界検知（Topic Segmentation）
