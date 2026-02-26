@@ -34,7 +34,3 @@
 - **Network**: Cloudflare Zero Trust (Tunnel)
 - **Dev**: Git, GitHub, Linux CLI, VS Code
 
-## 📊 GitHub Stats
-![Shota's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShotaMiwa&show_icons=true&theme=radical)
-
----
